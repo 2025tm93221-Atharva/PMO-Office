@@ -1,0 +1,6 @@
+PMO Office - Planning Notes
+
+- Central repository tracks planning and inventory data across locations.
+- Each location team appends updates to Planning.csv as tasks progress.
+- Inventory.xlsx is updated whenever stock counts change.
+- Changes should be committed with a clear message describing what was appended.
